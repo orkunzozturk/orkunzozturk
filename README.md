@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @orkunzozturk
+- 👀 I’m interested in VR/AR in marketing applications
+- 🌱 I’m currently learning React, GraphQL
+- 💞️ I’m looking to collaborate on website projects
+- 📫 Not my proudest website, but you can take a look at orkun.cn to read more about what I do.
