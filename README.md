@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @orkunzozturk
+- 👋 Hi, I’m @orkunzozturk. Marketer turned front-end developer. Turkish guy living in China.
 - 👀 I’m interested in VR/AR in marketing applications
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on website projects
+- 🌱 I’m currently learning React and C# for Unity
+- 💞️ I’m looking to collaborate on JAMStack projects
 - 📫 Not my proudest website, but you can take a look at orkun.cn to read more about what I do.
