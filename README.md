@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @orkunzozturk. Marketer turned front-end developer.
+- 👋 Hi, I’m @orkunzozturk. Marketer and full stack developer.
 - 👀 I’m interested in VR/AR in marketing applications
-- 🌱 I’m currently learning React and C# for Unity
 - I'm currently developing a WeChat mini-program with a Rails backend.
 - I created knowledgebase.nexpcb.com
